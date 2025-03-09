@@ -1,2 +1,2 @@
 # Sciurus17UI
- UI or Sciurus17
+ UI for Sciurus17
