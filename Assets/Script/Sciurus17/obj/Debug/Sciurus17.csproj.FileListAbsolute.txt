@@ -1,0 +1,228 @@
+C:\Users\中村研究室\Desktop\新しいフォルダー\Sciurus17\Sciurus17\bin\Debug\Sciurus17.exe.config
+C:\Users\中村研究室\Desktop\新しいフォルダー\Sciurus17\Sciurus17\bin\Debug\Sciurus17.exe
+C:\Users\中村研究室\Desktop\新しいフォルダー\Sciurus17\Sciurus17\bin\Debug\Sciurus17.pdb
+C:\Users\中村研究室\Desktop\新しいフォルダー\Sciurus17\Sciurus17\obj\Debug\Sciurus17.csproj.CoreCompileInputs.cache
+C:\Users\中村研究室\Desktop\新しいフォルダー\Sciurus17\Sciurus17\obj\Debug\Sciurus17.exe
+C:\Users\中村研究室\Desktop\新しいフォルダー\Sciurus17\Sciurus17\obj\Debug\Sciurus17.pdb
+C:\Users\Nakam\Desktop\Sciurus17\Sciurus17\bin\Debug\Sciurus17.exe.config
+C:\Users\Nakam\Desktop\Sciurus17\Sciurus17\bin\Debug\Sciurus17.exe
+C:\Users\Nakam\Desktop\Sciurus17\Sciurus17\bin\Debug\Sciurus17.pdb
+C:\Users\Nakam\Desktop\Sciurus17\Sciurus17\obj\Debug\Sciurus17.csprojAssemblyReference.cache
+C:\Users\Nakam\Desktop\Sciurus17\Sciurus17\obj\Debug\Sciurus17.csproj.CoreCompileInputs.cache
+C:\Users\Nakam\Desktop\Sciurus17\Sciurus17\obj\Debug\Sciurus17.exe
+C:\Users\Nakam\Desktop\Sciurus17\Sciurus17\obj\Debug\Sciurus17.pdb
+C:\Users\Nakam\Desktop\test\Sciurus17\Sciurus17\bin\Debug\Sciurus17.exe.config
+C:\Users\Nakam\Desktop\test\Sciurus17\Sciurus17\bin\Debug\Sciurus17.exe
+C:\Users\Nakam\Desktop\test\Sciurus17\Sciurus17\bin\Debug\Sciurus17.pdb
+C:\Users\Nakam\Desktop\test\Sciurus17\Sciurus17\obj\Debug\Sciurus17.csprojAssemblyReference.cache
+C:\Users\Nakam\Desktop\test\Sciurus17\Sciurus17\obj\Debug\Sciurus17.csproj.CoreCompileInputs.cache
+C:\Users\Nakam\Desktop\test\Sciurus17\Sciurus17\obj\Debug\Sciurus17.exe
+C:\Users\Nakam\Desktop\test\Sciurus17\Sciurus17\obj\Debug\Sciurus17.pdb
+C:\Users\Nakam\Desktop\623\Sciurus17\Sciurus17\bin\Debug\Sciurus17.exe.config
+C:\Users\Nakam\Desktop\623\Sciurus17\Sciurus17\bin\Debug\Sciurus17.exe
+C:\Users\Nakam\Desktop\623\Sciurus17\Sciurus17\bin\Debug\Sciurus17.pdb
+C:\Users\Nakam\Desktop\623\Sciurus17\Sciurus17\obj\Debug\Sciurus17.csprojAssemblyReference.cache
+C:\Users\Nakam\Desktop\623\Sciurus17\Sciurus17\obj\Debug\Sciurus17.csproj.CoreCompileInputs.cache
+C:\Users\Nakam\Desktop\623\Sciurus17\Sciurus17\obj\Debug\Sciurus17.exe
+C:\Users\Nakam\Desktop\623\Sciurus17\Sciurus17\obj\Debug\Sciurus17.pdb
+C:\Users\Nakam\Desktop\625\Sciurus17\Sciurus17\bin\Debug\Sciurus17.exe.config
+C:\Users\Nakam\Desktop\625\Sciurus17\Sciurus17\bin\Debug\Sciurus17.exe
+C:\Users\Nakam\Desktop\625\Sciurus17\Sciurus17\bin\Debug\Sciurus17.pdb
+C:\Users\Nakam\Desktop\625\Sciurus17\Sciurus17\obj\Debug\Sciurus17.csprojAssemblyReference.cache
+C:\Users\Nakam\Desktop\625\Sciurus17\Sciurus17\obj\Debug\Sciurus17.csproj.CoreCompileInputs.cache
+C:\Users\Nakam\Desktop\625\Sciurus17\Sciurus17\obj\Debug\Sciurus17.exe
+C:\Users\Nakam\Desktop\625\Sciurus17\Sciurus17\obj\Debug\Sciurus17.pdb
+C:\Users\Nakam\Desktop\速度制御3リンク\Sciurus17\Sciurus17\bin\Debug\Sciurus17.exe.config
+C:\Users\Nakam\Desktop\速度制御3リンク\Sciurus17\Sciurus17\bin\Debug\Sciurus17.exe
+C:\Users\Nakam\Desktop\速度制御3リンク\Sciurus17\Sciurus17\bin\Debug\Sciurus17.pdb
+C:\Users\Nakam\Desktop\速度制御3リンク\Sciurus17\Sciurus17\obj\Debug\Sciurus17.csprojAssemblyReference.cache
+C:\Users\Nakam\Desktop\速度制御3リンク\Sciurus17\Sciurus17\obj\Debug\Sciurus17.csproj.CoreCompileInputs.cache
+C:\Users\Nakam\Desktop\速度制御3リンク\Sciurus17\Sciurus17\obj\Debug\Sciurus17.exe
+C:\Users\Nakam\Desktop\速度制御3リンク\Sciurus17\Sciurus17\obj\Debug\Sciurus17.pdb
+C:\Users\nakamura\OneDrive - 学校法人東京理科大学\research\2024Scirus17\速度制御3リンク20240605\Sciurus17\Sciurus17\obj\Debug\Sciurus17.csproj.AssemblyReference.cache
+C:\Users\nakamura\OneDrive - 学校法人東京理科大学\research\2024Scirus17\速度制御3リンク20240605\Sciurus17\Sciurus17\obj\Debug\Sciurus17.csproj.CoreCompileInputs.cache
+C:\Users\nakamura\OneDrive - 学校法人東京理科大学\research\2024Scirus17\速度制御3リンク20240605\Sciurus17\Sciurus17\obj\Debug\Sciurus17.exe
+C:\Users\nakamura\OneDrive - 学校法人東京理科大学\research\2024Scirus17\速度制御3リンク20240605\Sciurus17\Sciurus17\obj\Debug\Sciurus17.pdb
+C:\Users\nakamura\OneDrive - 学校法人東京理科大学\research\2024Scirus17\速度制御3リンク20240605\Sciurus17\Sciurus17\bin\Debug\Sciurus17.exe.config
+C:\Users\nakamura\OneDrive - 学校法人東京理科大学\research\2024Scirus17\速度制御3リンク20240605\Sciurus17\Sciurus17\bin\Debug\Sciurus17.exe
+C:\Users\nakamura\OneDrive - 学校法人東京理科大学\research\2024Scirus17\速度制御3リンク20240605\Sciurus17\Sciurus17\bin\Debug\Sciurus17.pdb
+C:\Users\Kota Matsuda\OneDrive\ドキュメント\デスクトップ\Sciurus17\Sciurus17\bin\Debug\Sciurus17.exe.config
+C:\Users\Kota Matsuda\OneDrive\ドキュメント\デスクトップ\Sciurus17\Sciurus17\bin\Debug\Sciurus17.exe
+C:\Users\Kota Matsuda\OneDrive\ドキュメント\デスクトップ\Sciurus17\Sciurus17\bin\Debug\Sciurus17.pdb
+C:\Users\Kota Matsuda\OneDrive\ドキュメント\デスクトップ\Sciurus17\Sciurus17\obj\Debug\Sciurus17.csproj.AssemblyReference.cache
+C:\Users\Kota Matsuda\OneDrive\ドキュメント\デスクトップ\Sciurus17\Sciurus17\obj\Debug\Sciurus17.csproj.CoreCompileInputs.cache
+C:\Users\Kota Matsuda\OneDrive\ドキュメント\デスクトップ\Sciurus17\Sciurus17\obj\Debug\Sciurus17.exe
+C:\Users\Kota Matsuda\OneDrive\ドキュメント\デスクトップ\Sciurus17\Sciurus17\obj\Debug\Sciurus17.pdb
+C:\Users\Kota Matsuda\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - いじる方\Sciurus17\bin\Debug\Sciurus17.exe.config
+C:\Users\Kota Matsuda\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - いじる方\Sciurus17\bin\Debug\Sciurus17.exe
+C:\Users\Kota Matsuda\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - いじる方\Sciurus17\bin\Debug\Sciurus17.pdb
+C:\Users\Kota Matsuda\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - いじる方\Sciurus17\bin\Debug\SharpDX.dll
+C:\Users\Kota Matsuda\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - いじる方\Sciurus17\bin\Debug\SharpDX.XInput.dll
+C:\Users\Kota Matsuda\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - いじる方\Sciurus17\bin\Debug\SharpDX.pdb
+C:\Users\Kota Matsuda\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - いじる方\Sciurus17\bin\Debug\SharpDX.XInput.pdb
+C:\Users\Kota Matsuda\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - いじる方\Sciurus17\bin\Debug\SharpDX.XInput.xml
+C:\Users\Kota Matsuda\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - いじる方\Sciurus17\obj\Debug\Sciurus17.csproj.AssemblyReference.cache
+C:\Users\Kota Matsuda\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - いじる方\Sciurus17\obj\Debug\Sciurus17.csproj.CoreCompileInputs.cache
+C:\Users\Kota Matsuda\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - いじる方\Sciurus17\obj\Debug\Sciurus17.csproj.Up2Date
+C:\Users\Kota Matsuda\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - いじる方\Sciurus17\obj\Debug\Sciurus17.exe
+C:\Users\Kota Matsuda\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - いじる方\Sciurus17\obj\Debug\Sciurus17.pdb
+C:\Users\Kota Matsuda\OneDrive\ドキュメント\デスクトップ\Sciurus17 - いじる方\Sciurus17\bin\Debug\Sciurus17.exe.config
+C:\Users\Kota Matsuda\OneDrive\ドキュメント\デスクトップ\Sciurus17 - いじる方\Sciurus17\bin\Debug\Sciurus17.exe
+C:\Users\Kota Matsuda\OneDrive\ドキュメント\デスクトップ\Sciurus17 - いじる方\Sciurus17\bin\Debug\Sciurus17.pdb
+C:\Users\Kota Matsuda\OneDrive\ドキュメント\デスクトップ\Sciurus17 - いじる方\Sciurus17\bin\Debug\SharpDX.dll
+C:\Users\Kota Matsuda\OneDrive\ドキュメント\デスクトップ\Sciurus17 - いじる方\Sciurus17\bin\Debug\SharpDX.XInput.dll
+C:\Users\Kota Matsuda\OneDrive\ドキュメント\デスクトップ\Sciurus17 - いじる方\Sciurus17\bin\Debug\SharpDX.pdb
+C:\Users\Kota Matsuda\OneDrive\ドキュメント\デスクトップ\Sciurus17 - いじる方\Sciurus17\bin\Debug\SharpDX.XInput.pdb
+C:\Users\Kota Matsuda\OneDrive\ドキュメント\デスクトップ\Sciurus17 - いじる方\Sciurus17\bin\Debug\SharpDX.XInput.xml
+C:\Users\Kota Matsuda\OneDrive\ドキュメント\デスクトップ\Sciurus17 - いじる方\Sciurus17\obj\Debug\Sciurus17.csproj.AssemblyReference.cache
+C:\Users\Kota Matsuda\OneDrive\ドキュメント\デスクトップ\Sciurus17 - いじる方\Sciurus17\obj\Debug\Sciurus17.csproj.CoreCompileInputs.cache
+C:\Users\Kota Matsuda\OneDrive\ドキュメント\デスクトップ\Sciurus17 - いじる方\Sciurus17\obj\Debug\Sciurus17.csproj.Up2Date
+C:\Users\Kota Matsuda\OneDrive\ドキュメント\デスクトップ\Sciurus17 - いじる方\Sciurus17\obj\Debug\Sciurus17.exe
+C:\Users\Kota Matsuda\OneDrive\ドキュメント\デスクトップ\Sciurus17 - いじる方\Sciurus17\obj\Debug\Sciurus17.pdb
+C:\Users\koyo_enomoto\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - 松田\Sciurus17\bin\Debug\Sciurus17.exe.config
+C:\Users\koyo_enomoto\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - 松田\Sciurus17\bin\Debug\Sciurus17.exe
+C:\Users\koyo_enomoto\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - 松田\Sciurus17\bin\Debug\Sciurus17.pdb
+C:\Users\koyo_enomoto\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - 松田\Sciurus17\bin\Debug\SharpDX.dll
+C:\Users\koyo_enomoto\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - 松田\Sciurus17\bin\Debug\SharpDX.XInput.dll
+C:\Users\koyo_enomoto\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - 松田\Sciurus17\bin\Debug\SharpDX.pdb
+C:\Users\koyo_enomoto\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - 松田\Sciurus17\bin\Debug\SharpDX.XInput.pdb
+C:\Users\koyo_enomoto\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - 松田\Sciurus17\bin\Debug\SharpDX.XInput.xml
+C:\Users\koyo_enomoto\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - 松田\Sciurus17\obj\Debug\Sciurus17.csproj.AssemblyReference.cache
+C:\Users\koyo_enomoto\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - 松田\Sciurus17\obj\Debug\Sciurus17.csproj.CoreCompileInputs.cache
+C:\Users\koyo_enomoto\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - 松田\Sciurus17\obj\Debug\Sciurus17.csproj.Up2Date
+C:\Users\koyo_enomoto\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - 松田\Sciurus17\obj\Debug\Sciurus17.exe
+C:\Users\koyo_enomoto\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - 松田\Sciurus17\obj\Debug\Sciurus17.pdb
+C:\Users\koyo_enomoto\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - 0705　榎本 TCPIP\Sciurus17\bin\Debug\Sciurus17.exe.config
+C:\Users\koyo_enomoto\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - 0705　榎本 TCPIP\Sciurus17\bin\Debug\Sciurus17.exe
+C:\Users\koyo_enomoto\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - 0705　榎本 TCPIP\Sciurus17\bin\Debug\Sciurus17.pdb
+C:\Users\koyo_enomoto\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - 0705　榎本 TCPIP\Sciurus17\bin\Debug\SharpDX.dll
+C:\Users\koyo_enomoto\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - 0705　榎本 TCPIP\Sciurus17\bin\Debug\SharpDX.XInput.dll
+C:\Users\koyo_enomoto\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - 0705　榎本 TCPIP\Sciurus17\bin\Debug\SharpDX.pdb
+C:\Users\koyo_enomoto\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - 0705　榎本 TCPIP\Sciurus17\bin\Debug\SharpDX.XInput.pdb
+C:\Users\koyo_enomoto\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - 0705　榎本 TCPIP\Sciurus17\bin\Debug\SharpDX.XInput.xml
+C:\Users\koyo_enomoto\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - 0705　榎本 TCPIP\Sciurus17\obj\Debug\Sciurus17.csproj.AssemblyReference.cache
+C:\Users\koyo_enomoto\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - 0705　榎本 TCPIP\Sciurus17\obj\Debug\Sciurus17.csproj.CoreCompileInputs.cache
+C:\Users\koyo_enomoto\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - 0705　榎本 TCPIP\Sciurus17\obj\Debug\Sciurus17.csproj.Up2Date
+C:\Users\koyo_enomoto\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - 0705　榎本 TCPIP\Sciurus17\obj\Debug\Sciurus17.exe
+C:\Users\koyo_enomoto\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - 0705　榎本 TCPIP\Sciurus17\obj\Debug\Sciurus17.pdb
+C:\Users\榎本　光陽\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - 0705　榎本 TCPIP\Sciurus17\obj\Debug\Sciurus17.csproj.AssemblyReference.cache
+C:\Users\榎本　光陽\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - 0705　榎本 TCPIP\Sciurus17\obj\Debug\Sciurus17.csproj.CoreCompileInputs.cache
+C:\Users\榎本　光陽\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - 0705　榎本 TCPIP\Sciurus17\obj\Debug\Sciurus17.exe
+C:\Users\榎本　光陽\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - 0705　榎本 TCPIP\Sciurus17\obj\Debug\Sciurus17.pdb
+C:\Users\榎本　光陽\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - 0705　榎本 TCPIP\Sciurus17\bin\Debug\Sciurus17.exe.config
+C:\Users\榎本　光陽\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - 0705　榎本 TCPIP\Sciurus17\bin\Debug\Sciurus17.exe
+C:\Users\榎本　光陽\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - 0705　榎本 TCPIP\Sciurus17\bin\Debug\Sciurus17.pdb
+C:\Users\榎本　光陽\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - 0705　榎本 TCPIP\Sciurus17\bin\Debug\SharpDX.dll
+C:\Users\榎本　光陽\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - 0705　榎本 TCPIP\Sciurus17\bin\Debug\SharpDX.XInput.dll
+C:\Users\榎本　光陽\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - 0705　榎本 TCPIP\Sciurus17\bin\Debug\SharpDX.pdb
+C:\Users\榎本　光陽\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - 0705　榎本 TCPIP\Sciurus17\bin\Debug\SharpDX.XInput.pdb
+C:\Users\榎本　光陽\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - 0705　榎本 TCPIP\Sciurus17\bin\Debug\SharpDX.XInput.xml
+C:\Users\榎本　光陽\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - 0705　榎本 TCPIP\Sciurus17\obj\Debug\Sciurus17.csproj.Up2Date
+C:\Users\koyo_enomoto\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - 0712　榎本 TCPIP マルチスレッド\Sciurus17\bin\Debug\Sciurus17.exe.config
+C:\Users\koyo_enomoto\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - 0712　榎本 TCPIP マルチスレッド\Sciurus17\bin\Debug\Sciurus17.exe
+C:\Users\koyo_enomoto\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - 0712　榎本 TCPIP マルチスレッド\Sciurus17\bin\Debug\Sciurus17.pdb
+C:\Users\koyo_enomoto\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - 0712　榎本 TCPIP マルチスレッド\Sciurus17\bin\Debug\SharpDX.dll
+C:\Users\koyo_enomoto\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - 0712　榎本 TCPIP マルチスレッド\Sciurus17\bin\Debug\SharpDX.XInput.dll
+C:\Users\koyo_enomoto\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - 0712　榎本 TCPIP マルチスレッド\Sciurus17\bin\Debug\SharpDX.pdb
+C:\Users\koyo_enomoto\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - 0712　榎本 TCPIP マルチスレッド\Sciurus17\bin\Debug\SharpDX.XInput.pdb
+C:\Users\koyo_enomoto\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - 0712　榎本 TCPIP マルチスレッド\Sciurus17\bin\Debug\SharpDX.XInput.xml
+C:\Users\koyo_enomoto\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - 0712　榎本 TCPIP マルチスレッド\Sciurus17\obj\Debug\Sciurus17.csproj.AssemblyReference.cache
+C:\Users\koyo_enomoto\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - 0712　榎本 TCPIP マルチスレッド\Sciurus17\obj\Debug\Sciurus17.csproj.CoreCompileInputs.cache
+C:\Users\koyo_enomoto\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - 0712　榎本 TCPIP マルチスレッド\Sciurus17\obj\Debug\Sciurus17.csproj.Up2Date
+C:\Users\koyo_enomoto\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - 0712　榎本 TCPIP マルチスレッド\Sciurus17\obj\Debug\Sciurus17.exe
+C:\Users\koyo_enomoto\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - 0712　榎本 TCPIP マルチスレッド\Sciurus17\obj\Debug\Sciurus17.pdb
+C:\Users\榎本　光陽\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - 0712　榎本 TCPIP マルチスレッド\Sciurus17\bin\Debug\Sciurus17.exe.config
+C:\Users\榎本　光陽\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - 0712　榎本 TCPIP マルチスレッド\Sciurus17\bin\Debug\Sciurus17.exe
+C:\Users\榎本　光陽\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - 0712　榎本 TCPIP マルチスレッド\Sciurus17\bin\Debug\Sciurus17.pdb
+C:\Users\榎本　光陽\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - 0712　榎本 TCPIP マルチスレッド\Sciurus17\bin\Debug\SharpDX.dll
+C:\Users\榎本　光陽\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - 0712　榎本 TCPIP マルチスレッド\Sciurus17\bin\Debug\SharpDX.XInput.dll
+C:\Users\榎本　光陽\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - 0712　榎本 TCPIP マルチスレッド\Sciurus17\bin\Debug\SharpDX.pdb
+C:\Users\榎本　光陽\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - 0712　榎本 TCPIP マルチスレッド\Sciurus17\bin\Debug\SharpDX.XInput.pdb
+C:\Users\榎本　光陽\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - 0712　榎本 TCPIP マルチスレッド\Sciurus17\bin\Debug\SharpDX.XInput.xml
+C:\Users\榎本　光陽\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - 0712　榎本 TCPIP マルチスレッド\Sciurus17\obj\Debug\Sciurus17.csproj.AssemblyReference.cache
+C:\Users\榎本　光陽\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - 0712　榎本 TCPIP マルチスレッド\Sciurus17\obj\Debug\Sciurus17.csproj.CoreCompileInputs.cache
+C:\Users\榎本　光陽\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - 0712　榎本 TCPIP マルチスレッド\Sciurus17\obj\Debug\Sciurus17.csproj.Up2Date
+C:\Users\榎本　光陽\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - 0712　榎本 TCPIP マルチスレッド\Sciurus17\obj\Debug\Sciurus17.exe
+C:\Users\榎本　光陽\OneDrive - 東京理科大学\デスクトップ\Sciurus17 - 0712　榎本 TCPIP マルチスレッド\Sciurus17\obj\Debug\Sciurus17.pdb
+C:\Users\tusna\Desktop\Sciurus17 - 0718　榎本 TCPIP マルチスレッド\Sciurus17\bin\Debug\Sciurus17.exe.config
+C:\Users\tusna\Desktop\Sciurus17 - 0718　榎本 TCPIP マルチスレッド\Sciurus17\bin\Debug\Sciurus17.exe
+C:\Users\tusna\Desktop\Sciurus17 - 0718　榎本 TCPIP マルチスレッド\Sciurus17\bin\Debug\Sciurus17.pdb
+C:\Users\tusna\Desktop\Sciurus17 - 0718　榎本 TCPIP マルチスレッド\Sciurus17\bin\Debug\SharpDX.dll
+C:\Users\tusna\Desktop\Sciurus17 - 0718　榎本 TCPIP マルチスレッド\Sciurus17\bin\Debug\SharpDX.XInput.dll
+C:\Users\tusna\Desktop\Sciurus17 - 0718　榎本 TCPIP マルチスレッド\Sciurus17\bin\Debug\SharpDX.pdb
+C:\Users\tusna\Desktop\Sciurus17 - 0718　榎本 TCPIP マルチスレッド\Sciurus17\bin\Debug\SharpDX.XInput.pdb
+C:\Users\tusna\Desktop\Sciurus17 - 0718　榎本 TCPIP マルチスレッド\Sciurus17\bin\Debug\SharpDX.XInput.xml
+C:\Users\tusna\Desktop\Sciurus17 - 0718　榎本 TCPIP マルチスレッド\Sciurus17\obj\Debug\Sciurus17.csprojAssemblyReference.cache
+C:\Users\tusna\Desktop\Sciurus17 - 0718　榎本 TCPIP マルチスレッド\Sciurus17\obj\Debug\Sciurus17.csproj.CoreCompileInputs.cache
+C:\Users\tusna\Desktop\Sciurus17 - 0718　榎本 TCPIP マルチスレッド\Sciurus17\obj\Debug\Sciurus17.csproj.CopyComplete
+C:\Users\tusna\Desktop\Sciurus17 - 0718　榎本 TCPIP マルチスレッド\Sciurus17\obj\Debug\Sciurus17.exe
+C:\Users\tusna\Desktop\Sciurus17 - 0718　榎本 TCPIP マルチスレッド\Sciurus17\obj\Debug\Sciurus17.pdb
+C:\Users\tusna\Desktop\ロボット開発 2024\Sciurus17 - 0718　榎本 遠隔同時\Sciurus17\obj\Debug\Sciurus17.csprojAssemblyReference.cache
+C:\Users\tusna\Desktop\ロボット開発 2024\Sciurus17 - 0718　榎本 遠隔同時\Sciurus17\obj\Debug\Sciurus17.csproj.CoreCompileInputs.cache
+C:\Users\tusna\Desktop\ロボット開発 2024\Sciurus17 - 0718　榎本 遠隔同時\Sciurus17\obj\Debug\Sciurus17.exe
+C:\Users\tusna\Desktop\ロボット開発 2024\Sciurus17 - 0718　榎本 遠隔同時\Sciurus17\obj\Debug\Sciurus17.pdb
+C:\Users\tusna\Desktop\ロボット開発 2024\Sciurus17 - 0718　榎本 遠隔同時\Sciurus17\bin\Debug\Sciurus17.exe.config
+C:\Users\tusna\Desktop\ロボット開発 2024\Sciurus17 - 0718　榎本 遠隔同時\Sciurus17\bin\Debug\Sciurus17.exe
+C:\Users\tusna\Desktop\ロボット開発 2024\Sciurus17 - 0718　榎本 遠隔同時\Sciurus17\bin\Debug\Sciurus17.pdb
+C:\Users\tusna\Desktop\ロボット開発 2024\Sciurus17 - 0718　榎本 遠隔同時\Sciurus17\bin\Debug\SharpDX.dll
+C:\Users\tusna\Desktop\ロボット開発 2024\Sciurus17 - 0718　榎本 遠隔同時\Sciurus17\bin\Debug\SharpDX.XInput.dll
+C:\Users\tusna\Desktop\ロボット開発 2024\Sciurus17 - 0718　榎本 遠隔同時\Sciurus17\bin\Debug\SharpDX.pdb
+C:\Users\tusna\Desktop\ロボット開発 2024\Sciurus17 - 0718　榎本 遠隔同時\Sciurus17\bin\Debug\SharpDX.XInput.pdb
+C:\Users\tusna\Desktop\ロボット開発 2024\Sciurus17 - 0718　榎本 遠隔同時\Sciurus17\bin\Debug\SharpDX.XInput.xml
+C:\Users\tusna\Desktop\ロボット開発 2024\Sciurus17 - 0718　榎本 遠隔同時\Sciurus17\obj\Debug\Sciurus17.csproj.CopyComplete
+C:\Users\tusna\Desktop\ロボット開発 2024\Sciurus17 - 0722　榎本 遠隔同時\Sciurus17\bin\Debug\Sciurus17.exe.config
+C:\Users\tusna\Desktop\ロボット開発 2024\Sciurus17 - 0722　榎本 遠隔同時\Sciurus17\bin\Debug\Sciurus17.exe
+C:\Users\tusna\Desktop\ロボット開発 2024\Sciurus17 - 0722　榎本 遠隔同時\Sciurus17\bin\Debug\Sciurus17.pdb
+C:\Users\tusna\Desktop\ロボット開発 2024\Sciurus17 - 0722　榎本 遠隔同時\Sciurus17\bin\Debug\SharpDX.dll
+C:\Users\tusna\Desktop\ロボット開発 2024\Sciurus17 - 0722　榎本 遠隔同時\Sciurus17\bin\Debug\SharpDX.XInput.dll
+C:\Users\tusna\Desktop\ロボット開発 2024\Sciurus17 - 0722　榎本 遠隔同時\Sciurus17\bin\Debug\SharpDX.pdb
+C:\Users\tusna\Desktop\ロボット開発 2024\Sciurus17 - 0722　榎本 遠隔同時\Sciurus17\bin\Debug\SharpDX.XInput.pdb
+C:\Users\tusna\Desktop\ロボット開発 2024\Sciurus17 - 0722　榎本 遠隔同時\Sciurus17\bin\Debug\SharpDX.XInput.xml
+C:\Users\tusna\Desktop\ロボット開発 2024\Sciurus17 - 0722　榎本 遠隔同時\Sciurus17\obj\Debug\Sciurus17.csprojAssemblyReference.cache
+C:\Users\tusna\Desktop\ロボット開発 2024\Sciurus17 - 0722　榎本 遠隔同時\Sciurus17\obj\Debug\Sciurus17.csproj.CoreCompileInputs.cache
+C:\Users\tusna\Desktop\ロボット開発 2024\Sciurus17 - 0722　榎本 遠隔同時\Sciurus17\obj\Debug\Sciurus17.csproj.CopyComplete
+C:\Users\tusna\Desktop\ロボット開発 2024\Sciurus17 - 0722　榎本 遠隔同時\Sciurus17\obj\Debug\Sciurus17.exe
+C:\Users\tusna\Desktop\ロボット開発 2024\Sciurus17 - 0722　榎本 遠隔同時\Sciurus17\obj\Debug\Sciurus17.pdb
+C:\Users\tusna\Desktop\ロボット開発 2024\Sciurus17 - 0725　榎本 遠隔同時 右左腰\Sciurus17\bin\Debug\Sciurus17.exe.config
+C:\Users\tusna\Desktop\ロボット開発 2024\Sciurus17 - 0725　榎本 遠隔同時 右左腰\Sciurus17\bin\Debug\Sciurus17.exe
+C:\Users\tusna\Desktop\ロボット開発 2024\Sciurus17 - 0725　榎本 遠隔同時 右左腰\Sciurus17\bin\Debug\Sciurus17.pdb
+C:\Users\tusna\Desktop\ロボット開発 2024\Sciurus17 - 0725　榎本 遠隔同時 右左腰\Sciurus17\bin\Debug\SharpDX.dll
+C:\Users\tusna\Desktop\ロボット開発 2024\Sciurus17 - 0725　榎本 遠隔同時 右左腰\Sciurus17\bin\Debug\SharpDX.XInput.dll
+C:\Users\tusna\Desktop\ロボット開発 2024\Sciurus17 - 0725　榎本 遠隔同時 右左腰\Sciurus17\bin\Debug\SharpDX.pdb
+C:\Users\tusna\Desktop\ロボット開発 2024\Sciurus17 - 0725　榎本 遠隔同時 右左腰\Sciurus17\bin\Debug\SharpDX.XInput.pdb
+C:\Users\tusna\Desktop\ロボット開発 2024\Sciurus17 - 0725　榎本 遠隔同時 右左腰\Sciurus17\bin\Debug\SharpDX.XInput.xml
+C:\Users\tusna\Desktop\ロボット開発 2024\Sciurus17 - 0725　榎本 遠隔同時 右左腰\Sciurus17\obj\Debug\Sciurus17.csprojAssemblyReference.cache
+C:\Users\tusna\Desktop\ロボット開発 2024\Sciurus17 - 0725　榎本 遠隔同時 右左腰\Sciurus17\obj\Debug\Sciurus17.csproj.CoreCompileInputs.cache
+C:\Users\tusna\Desktop\ロボット開発 2024\Sciurus17 - 0725　榎本 遠隔同時 右左腰\Sciurus17\obj\Debug\Sciurus17.csproj.CopyComplete
+C:\Users\tusna\Desktop\ロボット開発 2024\Sciurus17 - 0725　榎本 遠隔同時 右左腰\Sciurus17\obj\Debug\Sciurus17.exe
+C:\Users\tusna\Desktop\ロボット開発 2024\Sciurus17 - 0725　榎本 遠隔同時 右左腰\Sciurus17\obj\Debug\Sciurus17.pdb
+C:\Users\kawai\Downloads\Sciurus17 - 0725　榎本 遠隔同時 右左腰\Sciurus17 - 0725　榎本 遠隔同時 右左腰\Sciurus17\bin\Debug\Sciurus17.exe.config
+C:\Users\kawai\Downloads\Sciurus17 - 0725　榎本 遠隔同時 右左腰\Sciurus17 - 0725　榎本 遠隔同時 右左腰\Sciurus17\bin\Debug\Sciurus17.exe
+C:\Users\kawai\Downloads\Sciurus17 - 0725　榎本 遠隔同時 右左腰\Sciurus17 - 0725　榎本 遠隔同時 右左腰\Sciurus17\bin\Debug\Sciurus17.pdb
+C:\Users\kawai\Downloads\Sciurus17 - 0725　榎本 遠隔同時 右左腰\Sciurus17 - 0725　榎本 遠隔同時 右左腰\Sciurus17\bin\Debug\SharpDX.dll
+C:\Users\kawai\Downloads\Sciurus17 - 0725　榎本 遠隔同時 右左腰\Sciurus17 - 0725　榎本 遠隔同時 右左腰\Sciurus17\bin\Debug\SharpDX.XInput.dll
+C:\Users\kawai\Downloads\Sciurus17 - 0725　榎本 遠隔同時 右左腰\Sciurus17 - 0725　榎本 遠隔同時 右左腰\Sciurus17\bin\Debug\SharpDX.pdb
+C:\Users\kawai\Downloads\Sciurus17 - 0725　榎本 遠隔同時 右左腰\Sciurus17 - 0725　榎本 遠隔同時 右左腰\Sciurus17\bin\Debug\SharpDX.XInput.pdb
+C:\Users\kawai\Downloads\Sciurus17 - 0725　榎本 遠隔同時 右左腰\Sciurus17 - 0725　榎本 遠隔同時 右左腰\Sciurus17\bin\Debug\SharpDX.XInput.xml
+C:\Users\kawai\Downloads\Sciurus17 - 0725　榎本 遠隔同時 右左腰\Sciurus17 - 0725　榎本 遠隔同時 右左腰\Sciurus17\obj\Debug\Sciurus17.csproj.AssemblyReference.cache
+C:\Users\kawai\Downloads\Sciurus17 - 0725　榎本 遠隔同時 右左腰\Sciurus17 - 0725　榎本 遠隔同時 右左腰\Sciurus17\obj\Debug\Sciurus17.csproj.CoreCompileInputs.cache
+C:\Users\kawai\Downloads\Sciurus17 - 0725　榎本 遠隔同時 右左腰\Sciurus17 - 0725　榎本 遠隔同時 右左腰\Sciurus17\obj\Debug\Sciurus17.csproj.Up2Date
+C:\Users\kawai\Downloads\Sciurus17 - 0725　榎本 遠隔同時 右左腰\Sciurus17 - 0725　榎本 遠隔同時 右左腰\Sciurus17\obj\Debug\Sciurus17.exe
+C:\Users\kawai\Downloads\Sciurus17 - 0725　榎本 遠隔同時 右左腰\Sciurus17 - 0725　榎本 遠隔同時 右左腰\Sciurus17\obj\Debug\Sciurus17.pdb
+C:\Users\tusna\Desktop\ロボット開発 2024\Sciurus17 - 0731　川合 遠隔同時 右左腰\Sciurus17 - 0725　榎本 遠隔同時 右左腰\Sciurus17\bin\Debug\Sciurus17.exe.config
+C:\Users\tusna\Desktop\ロボット開発 2024\Sciurus17 - 0731　川合 遠隔同時 右左腰\Sciurus17 - 0725　榎本 遠隔同時 右左腰\Sciurus17\bin\Debug\Sciurus17.exe
+C:\Users\tusna\Desktop\ロボット開発 2024\Sciurus17 - 0731　川合 遠隔同時 右左腰\Sciurus17 - 0725　榎本 遠隔同時 右左腰\Sciurus17\bin\Debug\Sciurus17.pdb
+C:\Users\tusna\Desktop\ロボット開発 2024\Sciurus17 - 0731　川合 遠隔同時 右左腰\Sciurus17 - 0725　榎本 遠隔同時 右左腰\Sciurus17\bin\Debug\SharpDX.dll
+C:\Users\tusna\Desktop\ロボット開発 2024\Sciurus17 - 0731　川合 遠隔同時 右左腰\Sciurus17 - 0725　榎本 遠隔同時 右左腰\Sciurus17\bin\Debug\SharpDX.XInput.dll
+C:\Users\tusna\Desktop\ロボット開発 2024\Sciurus17 - 0731　川合 遠隔同時 右左腰\Sciurus17 - 0725　榎本 遠隔同時 右左腰\Sciurus17\bin\Debug\SharpDX.pdb
+C:\Users\tusna\Desktop\ロボット開発 2024\Sciurus17 - 0731　川合 遠隔同時 右左腰\Sciurus17 - 0725　榎本 遠隔同時 右左腰\Sciurus17\bin\Debug\SharpDX.XInput.pdb
+C:\Users\tusna\Desktop\ロボット開発 2024\Sciurus17 - 0731　川合 遠隔同時 右左腰\Sciurus17 - 0725　榎本 遠隔同時 右左腰\Sciurus17\bin\Debug\SharpDX.XInput.xml
+C:\Users\tusna\Desktop\ロボット開発 2024\Sciurus17 - 0731　川合 遠隔同時 右左腰\Sciurus17 - 0725　榎本 遠隔同時 右左腰\Sciurus17\obj\Debug\Sciurus17.csprojAssemblyReference.cache
+C:\Users\tusna\Desktop\ロボット開発 2024\Sciurus17 - 0731　川合 遠隔同時 右左腰\Sciurus17 - 0725　榎本 遠隔同時 右左腰\Sciurus17\obj\Debug\Sciurus17.csproj.CoreCompileInputs.cache
+C:\Users\tusna\Desktop\ロボット開発 2024\Sciurus17 - 0731　川合 遠隔同時 右左腰\Sciurus17 - 0725　榎本 遠隔同時 右左腰\Sciurus17\obj\Debug\Sciurus17.csproj.CopyComplete
+C:\Users\tusna\Desktop\ロボット開発 2024\Sciurus17 - 0731　川合 遠隔同時 右左腰\Sciurus17 - 0725　榎本 遠隔同時 右左腰\Sciurus17\obj\Debug\Sciurus17.exe
+C:\Users\tusna\Desktop\ロボット開発 2024\Sciurus17 - 0731　川合 遠隔同時 右左腰\Sciurus17 - 0725　榎本 遠隔同時 右左腰\Sciurus17\obj\Debug\Sciurus17.pdb
+C:\Users\tusna\Desktop\ロボット開発 2024\Sciurus17 - 0801　 CBF遠隔\Sciurus17 - 0725　榎本 遠隔同時 右左腰\Sciurus17\obj\Debug\Sciurus17.csproj.AssemblyReference.cache
+C:\Users\tusna\Desktop\ロボット開発 2024\Sciurus17 - 0801　 CBF遠隔\Sciurus17 - 0725　榎本 遠隔同時 右左腰\Sciurus17\obj\Debug\Sciurus17.csproj.CoreCompileInputs.cache
+C:\Users\tusna\Desktop\ロボット開発 2024\Sciurus17 - 0801　 CBF遠隔\Sciurus17 - 0725　榎本 遠隔同時 右左腰\Sciurus17\obj\Debug\Sciurus17.exe
+C:\Users\tusna\Desktop\ロボット開発 2024\Sciurus17 - 0801　 CBF遠隔\Sciurus17 - 0725　榎本 遠隔同時 右左腰\Sciurus17\obj\Debug\Sciurus17.pdb
