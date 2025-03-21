@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using UnityEditor.PackageManager.UI;
+using UnityEngine;
 using UnityEngine.UIElements;
 
 public class TcpUI : MonoBehaviour
@@ -7,9 +8,12 @@ public class TcpUI : MonoBehaviour
     private Label data2Label;
     private Button sendButton;
     private Button onOffButton; // 🔥 OnOff 버튼 추가
+    private Button exit;
+    private VisualElement tcpWindow;
 
     private TcpClientSelf tcpClient;
-    private bool isConnected = false;  // 🔥 현재 연결 상태를 저장하는 변수
+    private bool isConnected = true;  // 🔥 현재 연결 상태를 저장하는 변수
+    private bool isWindowOpen = true;
 
     void Start()
     {
@@ -18,7 +22,9 @@ public class TcpUI : MonoBehaviour
         data1Field = root.Q<TextField>("Data1");
         data2Label = root.Q<Label>("Data2");
         sendButton = root.Q<Button>("SendButton");
-        onOffButton = root.Q<Button>("OnOff"); // 🔥 OnOff 버튼 추가
+        onOffButton = root.Q<Button>("OnOff");
+        exit = root.Q<Button>("Exit");
+        tcpWindow = root.Q<VisualElement>("DataSheet");
 
         // 🔥 추가된 null 체크
         if (data1Field == null) Debug.LogError("UI ToolkitでData1が見つかりません！");
@@ -26,20 +32,19 @@ public class TcpUI : MonoBehaviour
         if (sendButton == null) Debug.LogError("UI ToolkitでSendButtonが見つかりません！");
         if (onOffButton == null) Debug.LogError("UI ToolkitでOnOffButtonが見つかりません！");
 
+        tcpWindow.style.display = DisplayStyle.Flex;
         tcpClient = FindObjectOfType<TcpClientSelf>();
-
-        sendButton.clicked += OnSendButtonClicked;
-        data1Field.RegisterCallback<KeyDownEvent>(evt =>
-        {
-            if (evt.keyCode == KeyCode.Return || evt.keyCode == KeyCode.KeypadEnter)
-            {
-                OnSendButtonClicked();
-                evt.StopPropagation(); // 이벤트 전파 방지 (다른 UI 요소에 영향 주지 않도록)
-            }
-        });
-        onOffButton.clicked += OnOffButtonClicked; // 🔥 OnOff 버튼 이벤트 추가
-
         UpdateOnOffButtonText(); // 버튼 텍스트 초기화
+
+        Button();
+    }
+
+    private void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.U))
+        {
+            ToggleWindow();
+        }
     }
 
     void OnSendButtonClicked()
@@ -96,4 +101,41 @@ public class TcpUI : MonoBehaviour
             Debug.LogError("[UI] Data2Labelが初期化されていません。");
         }
     }
+
+    private void CloseWindow()
+    {
+        tcpWindow.style.display = DisplayStyle.None;
+        isWindowOpen = false;
+    }
+
+    private void ToggleWindow()
+    {
+        if (isWindowOpen)
+        {
+            tcpWindow.style.display = DisplayStyle.None;
+        }
+        else
+        {
+            tcpWindow.style.display = DisplayStyle.Flex;
+        }
+
+        isWindowOpen = !isWindowOpen;
+    }
+
+    private void Button()
+    {
+        sendButton.clicked += OnSendButtonClicked;
+        data1Field.RegisterCallback<KeyDownEvent>(evt =>
+        {
+            if (evt.keyCode == KeyCode.Return || evt.keyCode == KeyCode.KeypadEnter)
+            {
+                OnSendButtonClicked();
+                evt.StopPropagation(); // 이벤트 전파 방지 (다른 UI 요소에 영향 주지 않도록)
+            }
+        });
+        onOffButton.clicked += OnOffButtonClicked; // 🔥 OnOff 버튼 이벤트 추가
+        exit.clicked += CloseWindow;
+    }
+
+
 }
